@@ -1,16 +1,3 @@
 {
-  "users": [
-    {
-      "id": 74365526,
-      "firstName": "Rene",
-      "lastName": "Hagenes",
-      "email": "Julius1@hotmail.com"
-    },
-    {
-      "id": 44234379,
-      "firstName": "Delores",
-      "lastName": "Bode",
-      "email": "Christop_Schmeler55@hotmail.com"
-    }
-  ]
+  "users": []
 }
